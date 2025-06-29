@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(to bottom right, #4B0082, #9400D3);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    background: rgba(255,255,255,0.1);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-weight: bold;
+    background: gold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: none;
+}
+
+#logo {
+    width: 150px;
+    margin-bottom: 15px;
+}
